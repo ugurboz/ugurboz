@@ -41,6 +41,7 @@
 ![snake animation](https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake.svg)
 
 
+
 ---
 
 ### 🌐 Connect With Me
