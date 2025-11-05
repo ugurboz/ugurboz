@@ -38,10 +38,8 @@
 ---
 
 ### 🐍 Contribution Snake
+![snake animation](https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
