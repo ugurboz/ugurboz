@@ -15,8 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake.svg">
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ugurboz/ugurboz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
