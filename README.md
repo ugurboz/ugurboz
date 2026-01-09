@@ -8,9 +8,7 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Software Engineering student at **Fırat University**  
-- 🌱 Learning **Machine Learning, Embedded Systems, Data Science**  
-- 🤝 Open to collaborations in **open-source projects, AI & hardware systems**  
+- 🎓 Software Engineering student at **Fırat University**    
 - 📫 Reach me at: iletisim.ugurboz@gmail.com  
 - ⚡ Fun fact: I love turning complex data into real-time intelligent systems  
 
